@@ -1,0 +1,19 @@
+{
+  "name": "gint",
+  "version": "1.2.0",
+  "description": "Gint Version 1.2.0 ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "screen",
+    "recorder"
+  ],
+  "author": "Nicolas Garcia",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.0.0"
+  }
+}
